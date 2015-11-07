@@ -1,0 +1,23 @@
+name: R Quant Systems
+favicon: null
+layout_spectrum: 0.4246706385165453
+typography_spectrum: 0.7456894952338189
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4853714075870812
+  lightness: 0.7173211898189038
+  saturation: 0.6567027755081654
+  rhythmicContrast: 0.3027292024344206
+purpose: []
