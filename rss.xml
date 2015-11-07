@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[R Quant Systems]]></title>
         <description><![CDATA[R Quant Systems]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/r-quant-systems/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 23:33:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 23:37:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/r-quant-systems/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Relativity Trading System]]></title>
+            <description><![CDATA[<article><h1>Relativity Trading System</h1><p>System Description</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4cb57fa-5be0-4465-8024-7e6043f49662.jpg"></article>]]></description>
+            <link>https://thegrid.ai/r-quant-systems/relativity-trading-system/index.html</link>
+            <guid isPermaLink="false">f8d8d31f-b984-4fff-a1be-0a8d600c2eca</guid>
+            <pubDate>Sat, 07 Nov 2015 23:36:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I’d like to thank you for your interest in the Relativity 
@@ -453,7 +460,7 @@ PERFORMANCE RESULTS AND ALL WHICH CAN ADVERSELY AFFECT
 
 TRADING RESULTS.
 </p>]]></description>
-            <link>undefined4393b62b-ce72-464e-b423-1db89e8372e6/index.html</link>
+            <link>https://thegrid.ai/r-quant-systems/4393b62b-ce72-464e-b423-1db89e8372e6/index.html</link>
             <guid isPermaLink="false">4393b62b-ce72-464e-b423-1db89e8372e6</guid>
             <pubDate>Sat, 07 Nov 2015 23:33:12 GMT</pubDate>
         </item>
